@@ -1,21 +1,31 @@
 {
-    "name": "allesklarschiff",
-    "short_name": "allesklarschiff",
+    "name": "Alles Klar Schiff",
+    "short_name": "AllesKlarSchiff",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "Alles Klar Schiff Online-Shop",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "icons/icon-1256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
